@@ -2,4 +2,4 @@ Hi! This is a lightweigth plugin to accomplish just one thing taking snapshots w
 
 | Shelves |
 | ------- |
-| [0.1](https://drive.google.com/drive/folders/1soUAFlMUWNJnF1mD6ijVrPkw_4VpVAm7&export=download) | 
+| [0.1]([https://drive.google.com/drive/folders/1soUAFlMUWNJnF1mD6ijVrPkw_4VpVAm7&export=download](https://drive.google.com/uc?id=1XxN6Xq3Pp3rknFWOHLN3-xZmn5zwvQV2&export=download)) | 
